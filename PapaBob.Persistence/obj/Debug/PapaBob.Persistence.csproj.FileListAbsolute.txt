@@ -1,0 +1,12 @@
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\PapaBob.Persistence.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\PapaBob.Persistence.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\obj\Debug\PapaBob.Persistence.csprojResolveAssemblyReference.cache
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\obj\Debug\PapaBob.Persistence.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\obj\Debug\PapaBob.Persistence.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\PapaBob.DTO.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\PapaBob.DTO.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\PapaBob.Persistence.dll.config
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\EntityFramework.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\EntityFramework.xml
+C:\Saji\visual studio\PapaBob\PapaBob.Persistence\bin\Debug\EntityFramework.SqlServer.xml

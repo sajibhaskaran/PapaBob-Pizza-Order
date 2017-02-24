@@ -1,0 +1,5 @@
+C:\Saji\visual studio\PapaBob\PapaBob.DTO\bin\Debug\PapaBob.DTO.dll
+C:\Saji\visual studio\PapaBob\PapaBob.DTO\bin\Debug\PapaBob.DTO.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.DTO\obj\Debug\PapaBob.DTO.csprojResolveAssemblyReference.cache
+C:\Saji\visual studio\PapaBob\PapaBob.DTO\obj\Debug\PapaBob.DTO.dll
+C:\Saji\visual studio\PapaBob\PapaBob.DTO\obj\Debug\PapaBob.DTO.pdb

@@ -1,0 +1,11 @@
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Domain.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Domain.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\obj\Debug\PapaBob.Domain.csprojResolveAssemblyReference.cache
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\obj\Debug\PapaBob.Domain.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\obj\Debug\PapaBob.Domain.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.DTO.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Persistence.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.DTO.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Persistence.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\EntityFramework.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Domain\bin\Debug\EntityFramework.xml

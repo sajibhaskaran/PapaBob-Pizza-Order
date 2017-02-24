@@ -1,0 +1,16 @@
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.Web.dll.config
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.Web.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.Web.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Web\obj\Debug\PapaBob.Web.csprojResolveAssemblyReference.cache
+C:\Saji\visual studio\PapaBob\PapaBob.Web\obj\Debug\PapaBob.Web.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Web\obj\Debug\PapaBob.Web.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.Domain.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.DTO.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.Domain.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.DTO.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.Persistence.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\EntityFramework.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\PapaBob.Persistence.pdb
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\EntityFramework.xml
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\EntityFramework.SqlServer.dll
+C:\Saji\visual studio\PapaBob\PapaBob.Web\bin\EntityFramework.SqlServer.xml
